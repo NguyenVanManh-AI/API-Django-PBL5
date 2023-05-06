@@ -135,7 +135,7 @@ scikit-learn-intelex==2023.1.1
 scipy==1.9.1
 scs==3.2.2
 selenium==4.9.0
-sip==4.19.13
+sip==6.7.9
 soundfile==0.12.1
 soxr==0.3.3
 sqlparse==0.4.2
