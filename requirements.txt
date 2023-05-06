@@ -19,7 +19,7 @@ comtypes==1.1.10
 conda==4.3.16
 conda-build==2.1.5
 # conda-repo-cli==1.0.20
-conda-verify==3.4.2
+# conda-verify==3.4.2
 constantly==15.1.0
 contourpy==1.0.7
 cssselect==1.1.0
