@@ -1,7 +1,7 @@
 absl-py==1.4.0
 altair==4.2.2
 anaconda-client==1.1.1
-anaconda-navigator==2.3.1
+# anaconda-navigator==2.3.1
 appdirs==1.4.4
 asgiref==3.5.2
 astunparse==1.6.3
