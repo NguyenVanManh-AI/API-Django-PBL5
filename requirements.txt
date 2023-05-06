@@ -16,7 +16,7 @@ cachetools==5.3.0
 clyent==1.2.1
 cmake==3.25.2
 comtypes==1.1.10
-conda==23.1.0
+conda==4.3.16
 conda-build==3.22.0
 conda-repo-cli==1.0.20
 conda-verify==3.4.2
