@@ -13,7 +13,7 @@ bkcharts==0.2
 brotlipy==0.7.0
 CacheControl==0.12.11
 cachetools==5.3.0
-clyent==1.2.2
+clyent==1.2.1
 cmake==3.25.2
 comtypes==1.1.10
 conda==23.1.0
