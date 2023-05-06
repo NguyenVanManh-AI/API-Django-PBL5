@@ -112,7 +112,7 @@ psycopg2==2.8.6
 psycopg2-binary==2.9.5
 pyasn1-modules==0.2.8
 pycosat==0.6.3
-# pycurl==7.45.1
+# pycurl==7.45.1 # để cài một package thì bao gồm nhiều phần nhỏ, nếu trong các phần nhỏ đó bị lỗi thì ta không nên đi fix từng phần mà bỏ luôn cái to nhất này 
 PyDispatcher==2.0.5
 pydub==0.25.1
 Pygments==2.14.0
@@ -122,7 +122,7 @@ pytest==7.1.2
 python-lsp-jsonrpc==1.0.0
 python-mimeparse==1.6.0
 pytz==2021.1
-pywin32==302
+# pywin32==302 # như đã nói => pass qua pycurl là được 
 PyYAML==6.0
 qdldl==0.1.5.post3
 queuelib==1.5.0
